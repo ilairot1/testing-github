@@ -4,6 +4,6 @@ Edit 1
 Edit 2
 Edit 3E
 
-
-
-This was made on my marin branch
+Woohaa!
+Wohhaa boo!!
+>>>>>>> origin/readme-edits
